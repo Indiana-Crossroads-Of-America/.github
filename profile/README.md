@@ -16,7 +16,7 @@ Founder: [Julian](https://github.com/JulianEPrice)
 
 :computer:Network Manager: [Ross](https://github.com/RossMdevs) 
 
- * NRI's (Network Related Information)
+ * Network Information
  * Network Security & Breach reports.
  * Everything and anything tech related for I:COA.
 
