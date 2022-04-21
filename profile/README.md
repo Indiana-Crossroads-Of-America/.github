@@ -14,11 +14,15 @@ Founder: [Julian](https://github.com/JulianEPrice)
 * Managment of  all new staff 
 * Primary Developer/DevOPS
 
-:computer:Network Manager: [Ross](https://github.com/RossMdevs) 
+Network Manager:[Ross](https://github.com/RossMdevs) 
 
  * Network Information
  * Network Security & Breach reports.
  * Everything and anything tech related for I:COA.
+
+
+DevOPS Team Members:
+[Star](https://github.com/galactic-donuts)
 
 <hr />
 
