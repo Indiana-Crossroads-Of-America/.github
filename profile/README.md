@@ -11,9 +11,11 @@ Founder: [Julian](https://github.com/JulianEPrice)
 * Project Manager
 * Sr. DevOPS Leadership.
 
-<img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/37253938?v=4?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="ross" width="150"/> 
 
 Network Manager: [Ross](https://github.com/RossMdevs) 
+
+<img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/37253938?v=4?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="ross" width="150"/> 
+
 
  * Network Information
  * Network Security & Breach reports.
