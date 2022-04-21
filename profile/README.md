@@ -11,10 +11,10 @@ We are a group of tenacious volunteers whom are dedicated to creating a diverse 
 # The I:COA Team
 
 Founder: [Julian](https://github.com/JulianEPrice) 
-* Managment of  all new staff 
-* Primary Developer/DevOPS
+* Project Manager
+* Sr. DevOPS Leadership.
 
-Network Manager:[Ross](https://github.com/RossMdevs) 
+Network Manager: [Ross](https://github.com/RossMdevs) 
 
  * Network Information
  * Network Security & Breach reports.
@@ -22,6 +22,7 @@ Network Manager:[Ross](https://github.com/RossMdevs)
 
 
 DevOPS Team Members:
+
 [Star](https://github.com/galactic-donuts)
 
 <hr />
