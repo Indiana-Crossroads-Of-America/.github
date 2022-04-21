@@ -1,11 +1,8 @@
-## Welcome
+# Welcome to I:COA's official repository!
 
-Welcome to I:COA's official repository!
+### We are a group of tenacious volunteers whom are dedicated to creating a diverse and unique community.
 
-
-We are a group of tenacious volunteers whom are dedicated to creating a diverse and unique community.
-
-
+We are proud of the product we're developing, and are always looking for fresh talent.
 <hr />
 
 # The I:COA Team
