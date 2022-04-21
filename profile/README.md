@@ -21,7 +21,7 @@ Network Manager: [Ross](https://github.com/RossMdevs)
 
 Hi 👋,
 
-> I am Ross M., I am tasked with managing all of I:COA's tech assets. I handle INS & GBA's, site deployment, tech support, account requests, and other technical factors for I:COA. 
+> I am Ross M., I am tasked with managing all of I:COA's tech assets. I handle INS & NRL's, site deployment, tech support, account requests, and other technical factors for I:COA. 
 
  * Network Information
  * Internal Network Security (INS & GBA)
