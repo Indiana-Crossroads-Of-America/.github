@@ -41,10 +41,15 @@ DevOPS Team Members:
 
 
 # licensing
-Legal Bindings issued by I:COA.
+Legal Bindings issued by I:COA. (Indiana Crossroads of America)
 
 I:COA reserves the right to all material, hosted on our realm & network. The material remains governed by Indiana Crossroads of America indefinitely. The material may not be withdrawn, modified, removed, or defaced in cases of termination, self-separation or other undefined factors.
 
+I:COA is defined as A: Network application not produced for profit (non-profit, open-source). I:COA does not HIRE (pay) persons of interest for work done at I:COA. All work is legally binded to I:COA as VOLUNTARY and RETAINED indefinitely. 
+### Accepting a position with I:COA,
+
+
+Upon accepting a volunteer position, a NDA (non disclosure agreement) will be signed
 
 Legal actions can be sent to
 PO BOX 372, Greenfield IN.
