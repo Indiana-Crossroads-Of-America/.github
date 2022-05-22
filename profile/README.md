@@ -8,8 +8,6 @@ We are proud of the product we're developing, and are always looking for fresh t
 # The I:COA Team
 
 Founder: [Julian](https://github.com/JulianEPrice) <br>
-<img src="https://images.weserv.nl/?url=https://ross.indianacoa.com/devops/im/jules.png?v=4?v=4fit=cover&mask=circle&maxage=7d%22%20alt=%22ross%22%20width=%22200%22" alt="ross" width="200"/> 
-
 > 👋 I am Julian. I am the founder of I:COA. I watch over the project and ensure everything is running smoothly. 
 
 * Project Manager
