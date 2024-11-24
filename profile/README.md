@@ -38,26 +38,50 @@ DevOPS Team Members:
 
 ##### We either aren't working on anything further, or it's behind the curtain.
 
+<hr />
+<hr />
+<hr />
+<hr />
 
 # Licensing Agreement  
 
-## Legal Bindings Issued by Indiana Crossroads of America (I:COA)  
+## **Legal Bindings Issued by Indiana Crossroads of America (I:COA)**  
 
-RM Enterprise Solutions, LLC (and its affiliates) governs and manages I:COA. All materials hosted on I:COA's network and platforms are exclusively owned by I:COA. These materials are subject to perpetual governance and cannot be withdrawn, altered, removed, or defaced under any circumstances, including termination, resignation, or other unspecified factors.  
+RM Enterprise Solutions, LLC (and its affiliates) governs and manages **I:COA**. All materials hosted on **I:COA's network and platforms** are **exclusively owned** by I:COA. These materials are subject to **perpetual governance** and **cannot be withdrawn, altered, removed, or defaced** under any circumstances, including termination, resignation, or other unspecified factors.  
 
-## Definition of I:COA  
+---
 
-I:COA is a non-profit, open-source network application. It does not hire or financially compensate individuals for their contributions. All contributions made under I:COA are voluntary and remain legally bound to I:COA indefinitely.  
+## **Definition of I:COA**  
 
-## Acceptance of a Volunteer Position  
+I:COA is a **non-profit, open-source network application**. It does not hire or financially compensate individuals for their contributions.  
+- All contributions made under I:COA are **voluntary**.  
+- Contributions remain **legally bound to I:COA indefinitely**.  
 
-By accepting a volunteer position with I:COA, individuals are required to sign a Non-Disclosure Agreement (NDA) as part of their commitment.  
+---
 
-## Legal Contact Information  
+## **Contractual Agreements**  
+
+By accepting a **technological position with I:COA**, individuals are required to manage and safeguard all content entrusted to them, ensuring it is used exclusively by themselves and not shared with third parties. This includes a **binding agreement** that the volunteer will:  
+
+- **Refrain from misusing I:COA resources** for personal gain.  
+- **Not share credentials** with unauthorized individuals.  
+- **Act in good faith**, adhering to the highest standards of integrity and sound judgment as outlined in the agreement.  
+
+##### The roles of "Volunteer" and "Technology Volunteer" are **at-will** and may be terminated by either party at any time without prior notice. Upon termination, all materials and content rightfully belonging to I:COA must be returned promptly.
+---
+
+## **Legal Contact Information**  
 
 For legal inquiries or matters, please contact:  
-[Help Center](https://help-point.rmsolutions.tech)  
+- **[Help Center](https://help-point.rmsolutions.tech)**  
 
-### RM Enterprise Solutions, LLC Legal District Zone:  
-Hancock County Courthouse  
-9 E. Main Street, Greenfield, IN 46140  
+Alternatively, legal issues can be addressed through:  
+**RM Enterprise Solutions, LLC Legal District Center**  
+- Hancock County Courthouse  
+  9 E. Main Street, Greenfield, IN 46140  
+
+---  
+
+### **Important Notes**  
+- **All materials and contributions are retained indefinitely** under the governance of I:COA.  
+- **Contributors will not receive compensation** for their work under any circumstances unless explicitly outlined in a written contract authorized by I:COA Leadership.
