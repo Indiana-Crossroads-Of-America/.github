@@ -27,34 +27,37 @@ Hi 👋,
 
 DevOPS Team Members:
 
-[Star](https://github.com/galactic-donuts)
+
+
 
 <hr />
 
-# Project Dist
+# Project Directory:
 
 [I:COA](https://github.com/Indiana-Crossroads-Of-America/website) > Our official VueJS site.
 
 ##### We either aren't working on anything further, or it's behind the curtain.
 
 
-# licensing
-Legal Bindings issued by I:COA. (Indiana Crossroads of America)
+# Licensing Agreement  
 
-I:COA reserves the right to all material, hosted on our realm & network. The material remains governed by Indiana Crossroads of America indefinitely. The material may not be withdrawn, modified, removed, or defaced in cases of termination, self-separation or other undefined factors.
+## Legal Bindings Issued by Indiana Crossroads of America (I:COA)  
 
-I:COA is defined as A: Network application not produced for profit (non-profit, open-source). I:COA does not HIRE (pay) persons of interest for work done at I:COA. All work is legally binded to I:COA as VOLUNTARY and RETAINED indefinitely. 
-### Accepting a position with I:COA,
+RM Enterprise Solutions, LLC (and its affiliates) governs and manages I:COA. All materials hosted on I:COA's network and platforms are exclusively owned by I:COA. These materials are subject to perpetual governance and cannot be withdrawn, altered, removed, or defaced under any circumstances, including termination, resignation, or other unspecified factors.  
 
+## Definition of I:COA  
 
-Upon accepting a volunteer position, a NDA (non disclosure agreement) will be signed
+I:COA is a non-profit, open-source network application. It does not hire or financially compensate individuals for their contributions. All contributions made under I:COA are voluntary and remain legally bound to I:COA indefinitely.  
 
-Legal actions can be sent to
-PO BOX 372, Greenfield IN.
+## Acceptance of a Volunteer Position  
 
-Or handled via:
- 
-Hancock County Courthouse 
-9 E. Main Street Greenfield, IN 46140
+By accepting a volunteer position with I:COA, individuals are required to sign a Non-Disclosure Agreement (NDA) as part of their commitment.  
 
+## Legal Contact Information  
 
+For legal inquiries or matters, please contact:  
+[Help Center](https://help-point.rmsolutions.tech)  
+
+### RM Enterprise Solutions, LLC Legal District Zone:  
+Hancock County Courthouse  
+9 E. Main Street, Greenfield, IN 46140  
